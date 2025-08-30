@@ -1,0 +1,8 @@
+Age
+RestingBP
+Cholesterol
+MaxHR
+Oldpeak
+ExerciseAngina_Y
+ST_Slope_Flat
+ST_Slope_Up
